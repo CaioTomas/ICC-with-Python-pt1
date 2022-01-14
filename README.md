@@ -15,7 +15,7 @@ Files are named as:
 
 # Introdução à Ciência da Computação com Python pt.1
 
-Esse é o repo com as minhas soluções para os exercícios e tarefas de programação do curso **Introdução à Ciência da Computação com Python** da USP.
+Esse é o repo com as minhas soluções para os exercícios e tarefas de programação do curso **Introdução à Ciência da Computação com Python Parte 1** da USP.
 
 Os arquivos são as minhas soluções, em código, para os desafios/exercícios e tarefas propostos ao longo do curso.
 
